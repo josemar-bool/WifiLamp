@@ -1,2 +1,2 @@
 # WifiLamp
-Projeto do interruptor wifi para lâmpada.
+Projeto de um interruptor wifi para lâmpada.
